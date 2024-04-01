@@ -3,5 +3,6 @@
 
 <!--내용부분-->
 <div align="center>
-  ![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesu&show_icons=true&bg_color=eeeeee&title_color=000000&icon_color=f1c232)
- </div>
+  <img src="![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesu&show_icons=true&bg_color=eeeeee&title_color=000000&icon_color=f1c232)"/>
+</div>
+
