@@ -3,6 +3,6 @@
 
 <!--내용부분-->
 <div align="center>
-  <img src="![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesu&show_icons=true&bg_color=eeeeee&title_color=000000&icon_color=f1c232)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heesu52&show_icons=true&theme=vue"/>
 </div>
 
