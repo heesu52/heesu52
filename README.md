@@ -20,6 +20,13 @@
   <img src="https://img.shields.io/badge/STYLEDCOMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff"/>
 </p>
 <br/>
+<h3 align="center">🛠️Tools🛠️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=SLACK&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=NOTION&logoColor=ffffff"/>
+</p>
+<br/>
 <h3 align="center">💻Blog💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=ffffff"/>
